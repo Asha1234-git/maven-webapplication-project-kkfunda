@@ -13,7 +13,8 @@
         background: #f9f9f9;
         font-family: Arial, sans-serif;
     }
-    header {
+    header { 
+       
         background: linear-gradient(90deg, #007bff, #00c6ff);
         color: white;
         padding: 20px;
@@ -46,7 +47,7 @@
 <body>
 
 <header>
-    <marquee> <h1> WELCOME TO KK DEVOPS </h1> </marquee>
+    <marquee> <h1> WELCOME TO KK DEVOPS new batch on may 25 </h1> </marquee>
     <h3>Training | Development | Consulting</h3>
 </header>
 
